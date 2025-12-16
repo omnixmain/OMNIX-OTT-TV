@@ -29,7 +29,7 @@ http://103.182.170.32:8888/play/a01y
 http://103.182.170.32:8888/play/a03q
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png",ETV Bal Bharat - Rs 4.00
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 tvg-logo="www.mising.com",Hungama - Rs 2.00
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f8/6c/f6/f86cf684bf89e4dc1bbcece283a3e741.jpg",Hungama - Rs 2.00
 http://103.182.170.32:8888/play/a04b
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png",MTV HD - Rs 2.00
 http://103.182.170.32:8888/play/a025
@@ -39,7 +39,7 @@ http://103.182.170.32:8888/play/a01n
 http://103.182.170.32:8888/play/a01r
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",Nick  - Rs 6.00
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 tvg-logo="www.mising.com",Nick Jr. - Rs 1.00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/960px-Nick_Jr._logo_2023.svg.png",Nick Jr. - Rs 1.00
 http://103.182.170.32:8888/play/a02q
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo - Rs 4.75
 http://103.182.170.32:8888/play/a02p
