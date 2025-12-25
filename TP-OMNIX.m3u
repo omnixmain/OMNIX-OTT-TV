@@ -21,7 +21,7 @@ http://103.182.170.32:8888/play/a04i
 http://103.182.170.32:8888/play/a041
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",Discovery Kids - Rs 3.50
 http://103.182.170.32:8888/play/a02o
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png",Disney Channel - Rs 10.00
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Disney.png",Disney Channel - Rs 10.00
 http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1110627.png",Disney International HD - Rs 19.00
 http://103.182.170.32:8888/play/a01y
