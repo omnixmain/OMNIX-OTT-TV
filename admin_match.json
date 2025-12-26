@@ -1,20 +1,23 @@
 {
+  "name": "Fancode Live Matches Data in Json",
+  "telegram": "https://t.me/iptvflixbd",
+  "last update time": "06:07:47 PM 26-12-2025",
   "matches": [
     {
-      "match_id": "admin_1",
-      "title": "India vs Pakistan",
-      "match_name": "India vs Pakistan",
-      "event_name": "Admin Cup 2025",
       "event_category": "Cricket",
-      "status": "LIVE",
+      "title": "India Women vs Sri Lanka Women (Admin Cup 2025)",
       "src": "https://github.com/omnixmain/logos/blob/main/India%20versus%20Sri%20Lanka.png?raw=true",
-      "team_1": "India",
+      "team_1": "India Women",
       "team_2": "Sri Lanka Women",
-      "team_1_logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
-      "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "status": "LIVE",
+      "event_name": "Admin Cup 2025",
+      "match_name": "India Women vs Sri Lanka Women",
+      "match_id": 143,
+      "startTime": "07:00:00 PM 26-12-2025",
+      "dai_url": "",
       "adfree_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "dai_url": ""
+      "team_1_logo": "https://static.cricbuzz.com/a/img/v1/25x18/i1/c776182/india-women.jpg",
+      "team_2_logo": "https://static.cricbuzz.com/a/img/v1/25x18/i1/c776267/sri-lanka-women.jpg"
     }
   ]
 }
-
