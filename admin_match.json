@@ -1,18 +1,18 @@
 {
-  "name": "Fancode Live Matches Data in Json",
-  "telegram": "https://t.me/iptvflixbd",
+  "name": "OMNIX OTT Live Matches Data in Json",
+  "telegram": "https://t.me/omnix_Empire",
   "last update time": "06:07:47 PM 26-12-2025",
   "matches": [
     {
       "event_category": "Cricket",
-      "title": "India Women vs Sri Lanka Women (Admin Cup 2025)",
+      "title": "India Women vs Sri Lanka Women (3rd T20I)",
       "src": "https://github.com/omnixmain/logos/blob/main/India%20versus%20Sri%20Lanka.png?raw=true",
       "team_1": "India Women",
       "team_2": "Sri Lanka Women",
       "status": "LIVE",
-      "event_name": "Admin Cup 2025",
+      "event_name": "Sri Lanka Women tour of India, 2025",
       "match_name": "India Women vs Sri Lanka Women",
-      "match_id": 143,
+      "match_id": 139516,
       "startTime": "07:00:00 PM 26-12-2025",
       "dai_url": "",
       "adfree_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
