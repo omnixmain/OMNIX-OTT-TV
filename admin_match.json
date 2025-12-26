@@ -14,11 +14,12 @@
       "match_name": "India Women vs Sri Lanka Women",
       "match_id": 139516,
       "startTime": "07:00:00 PM 26-12-2025",
-      "dai_url": "",
-      "adfree_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "dai_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+      "adfree_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
       "team_1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381895.png",
       "team_2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340000/340047.png"
     }
   ]
 }
+
 
