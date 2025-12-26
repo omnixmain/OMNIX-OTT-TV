@@ -1,0 +1,19 @@
+{
+  "matches": [
+    {
+      "match_id": "admin_1",
+      "title": "India vs Pakistan",
+      "match_name": "India vs Pakistan",
+      "event_name": "Admin Cup 2025",
+      "event_category": "Cricket",
+      "status": "LIVE",
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "team_1": "India",
+      "team_2": "Pakistan",
+      "team_1_logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "adfree_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "dai_url": ""
+    }
+  ]
+}
